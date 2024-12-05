@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs/
+Demo_RCP/bin/
+Demo_RCP/obj/
+/Demo_RCP.sln
+/Demo_RCP.sln
+/Demo_RCP/Demo_RCP.csproj
+/Demo_RCP/Demo_RCP.csproj
+/Demo_RCP.sln

@@ -1,4 +1,4 @@
-﻿insert into users (username, password, role,status,date_reg) values	('hoai1','hoai123','Admin','active','2024-11-24')
+﻿insert into users (username, password, role,status,date_reg) values	('dat1','123','Admin','active','2024-11-24')
 insert into users (username, password, role,status,date_reg) values	('giakiet','kiet123','Staff','active','2024-11-24')
 select * from users
 select * from movies

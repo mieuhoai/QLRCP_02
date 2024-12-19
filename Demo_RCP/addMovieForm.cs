@@ -88,7 +88,7 @@ namespace Demo_RCP
                                 cmd.Parameters.AddWithValue("@movieName", addmovie_name.Text.Trim());
                                 cmd.Parameters.AddWithValue("@genre", addmovie_genre.Text.Trim());
                                 cmd.Parameters.AddWithValue("@price", addmovie_price.Text.Trim());
-                                cmd.Parameters.AddWithValue("@capacity", addmovie_capacity.Text.Trim();
+                                cmd.Parameters.AddWithValue("@capacity", addmovie_capacity.Text.Trim());
                                 cmd.Parameters.AddWithValue("@movieImage", path);
                                 cmd.Parameters.AddWithValue("@status", addmovie_status.SelectedItem?.ToString() ?? "Unknown");
                                 cmd.Parameters.AddWithValue("@date", DateTime.Now);
